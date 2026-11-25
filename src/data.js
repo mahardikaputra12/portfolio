@@ -7,7 +7,7 @@ export const links = {
 
 export const facts = [
   ['Recognition', 'Gold medal, KMM 2026'],
-  ['Kuliah di', 'Information Technology, UMY'],
+  ['Studying', 'Information Technology, UMY'],
   ['Based in', 'Yogyakarta, Indonesia'],
   ['Availability', 'Open to freelance projects'],
 ]
